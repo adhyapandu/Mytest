@@ -1,0 +1,3 @@
+-git status
+-git add/remove red yourfile
+-git commit -m "your commit"
