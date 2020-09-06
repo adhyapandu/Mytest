@@ -1,3 +1,4 @@
+-git init
 -git status
--git add/remove red yourfile
+-git add/remove yourfile
 -git commit -m "your commit"
